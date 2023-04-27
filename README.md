@@ -1,2 +1,2 @@
-# Neria-Katz-portfolio
+# multipage-portfolio-example
 training project - portfolio web site
