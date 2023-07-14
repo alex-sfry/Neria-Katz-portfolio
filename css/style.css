@@ -2,13 +2,13 @@
 
 @font-face {
     font-family: 'Aharoni';
-    src: url('../fonts/Aharoni_Bold.ttf');
+    src: url('../fonts/Aharoni_Bold.woff') format('woff');
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Alata';
-    src: url('../fonts/Alata-Regular.ttf');
+    src: url('../fonts/Alata-Regular.woff') format('woff');
     font-display: swap;
 }
 
