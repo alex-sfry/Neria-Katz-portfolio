@@ -1,2 +1,2 @@
 # multipage-portfolio-example
-training project - portfolio web site
+fictional portfolio web site
